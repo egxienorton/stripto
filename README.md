@@ -1,40 +1,32 @@
-## Getting Started
+# CryptoFlow: Seamless Blockchain Payments on Base L2
 
-Create a project using this example:
+## Overview
+
+CryptoFlow is a revolutionary payment gateway that enables direct cryptocurrency transactions on Base L2. Our solution allows users to make payments using their preferred cryptocurrencies with real-time exchange rates and low transaction fees.
+
+## Features
+
+- Direct integration with crypto wallets
+- Real-time currency exchange
+- Low transaction fees leveraging Base L2's efficiency
+- User-friendly interface for seamless payments
+- Easy integration for merchants
+
+## Technology Stack
+
+- Smart Contracts: Solidity
+- Frontend: Next.js
+- Blockchain: Base L2 (Ethereum Layer 2 solution)
+
+## Current Progress
+
+- Smart contracts developed and deployed on Base L2
+- Basic frontend interface created
+- Concept for real-time exchange integration outlined
+
+## Installation
 
 ```bash
-npx thirdweb create --template next-typescript-starter
-```
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
-
-## Environment Variables
-
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
-
-## Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
-## Learn More
-
-To learn more about thirdweb and Next.js, take a look at the following resources:
-
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/typescript) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Templates](https://thirdweb.com/templates)
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+git clone https://github.com/yourusername/cryptoflow.git
+cd cryptoflow
+npm install
