@@ -28,6 +28,6 @@ Stripto is a revolutionary payment gateway that enables direct cryptocurrency tr
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/cryptoflow.git
-cd cryptoflow
+git clone https://github.com/egxienorton/stripto.git
+cd stripto
 npm install
