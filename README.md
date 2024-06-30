@@ -2,7 +2,7 @@
 
 ## Overview
 
-CryptoFlow is a revolutionary payment gateway that enables direct cryptocurrency transactions on Base L2. Our solution allows users to make payments using their preferred cryptocurrencies with real-time exchange rates and low transaction fees.
+Stripto is a revolutionary payment gateway that enables direct cryptocurrency transactions on Base L2. Our solution allows users to make payments using their preferred cryptocurrencies with real-time exchange rates and low transaction fees.
 
 ## Features
 
