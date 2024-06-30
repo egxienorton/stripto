@@ -1,4 +1,4 @@
-# CryptoFlow: Seamless Blockchain Payments on Base L2
+# Stripto: Seamless Blockchain Payments on Base L2
 
 ## Overview
 
