@@ -17,6 +17,7 @@ Stripto is a revolutionary payment gateway that enables direct cryptocurrency tr
 - Smart Contracts: Solidity
 - Frontend: Next.js
 - Blockchain: Base L2 (Ethereum Layer 2 solution)
+- Thirdweb
 
 ## Current Progress
 

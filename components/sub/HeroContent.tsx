@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Traditional payment gateways like Stripe aren&apos;t  universally accessible, and integrating crypto payments often involves complex processes for both merchants and consumers..
+          Traditional payment gateways aren&apos;t  universally accessible, and integrating crypto payments often involves complex processes for both merchants and consumers.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}

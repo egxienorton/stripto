@@ -13,7 +13,7 @@ const activeChain = "base";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
-    {/* <StarsCanvas /> */}
+    <StarsCanvas />
     <div
     className=""
     >
